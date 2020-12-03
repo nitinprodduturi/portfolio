@@ -1,0 +1,38 @@
+body{
+    background-color: gray;
+}
+li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
+li a{
+    color:black;
+    padding: 5%;
+}
+.menu{
+    background-color: lightgray;
+    padding: 1%;
+}
+li a:hover{
+    color: white;
+}
+.name{
+    color: cyan;
+    font-size: larger;
+    padding: 10%;
+}
+button{
+    background-color: orangered;
+    color: white;
+    border: 0;
+    border-radius: 15px;
+    font-weight: bolder;
+    font-size: larger;
+    padding: 30px;
+    margin-left: 20%;
+}
+button:hover{
+    cursor: pointer;
+}
